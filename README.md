@@ -1,6 +1,6 @@
 ## Fala galera, meu nome é Alanna Santos 😉
 
-Atualmente curso Ciência de Dados e atuo profissionalmente no mercado de iGaming no Brasil, especificamente no ecossistema de apostas esportivas e cassinos online.
+Atualmente curso Ciência de Dados e atuo profissionalmente no mercado iGaming no Brasil, especificamente no ecossistema de apostas esportivas e cassinos online.
 Sou técnica em telecomunicações e possuo o Certificado Profissional em Análise de Dados do Google pela Coursera.
 ## Tecnologias:
 <div style="display: inline_block"><br>
