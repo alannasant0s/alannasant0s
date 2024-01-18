@@ -1,7 +1,7 @@
 ## Fala galera, meu nome é Alanna Santos 😉
 
 Atualmente curso Ciência de Dados e atuo profissionalmente no mercado iGaming no Brasil, especificamente no ecossistema de apostas esportivas e cassinos online.
-Sou técnica em telecomunicações e possuo o Certificado Profissional em Análise de Dados do Google pela Coursera.
+Sou técnica em telecomunicações e possuo o Certificado Profissional em Análise de Dados do Google.
 #### Tecnologias:
 <div style="display: inline_block"><br>
   <img align="center" alt="Alanna-Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
