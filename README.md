@@ -10,6 +10,8 @@ Sou técnica em telecomunicações e possuo o Certificado Profissional em Análi
   <img align="center" alt="Alanna-postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Alanna-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" >
 </div>
+ <img align="center" alt="Alanna-certificate-google" height="30" width="40" src="https://images.credly.com/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png" >
+</div>
 
 ##
 #### Contato:
