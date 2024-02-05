@@ -13,8 +13,7 @@ Sou técnica em telecomunicações e possuo o Certificado Profissional em Análi
   <img align="center" alt="Alanna-certificate-google" height="30" width="40" src="https://images.credly.com/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png" >
  </div> <img align="center" alt="Alanna-certificate-google" height="30" width="40" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" >
  </div>
-<img align="center" alt="Alanna-certificate-google" height="30" width="40" src="https://pt.m.wikipedia.org/wiki/Ficheiro:New_Power_BI_Logo.svg" >
- </div>
+
 
 ##
 #### Contato:
