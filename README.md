@@ -15,7 +15,7 @@ Sou técnica em telecomunicações e possuo o Certificado Profissional em Análi
   <img align="center" alt="Alanna-git" height="50" width="50" src="https://www.stickersdevs.com.br/wp-content/uploads/2015/03/git-stickers-adesivo-600x600.png">
  </div>
 
-https://www.stickersdevs.com.br/wp-content/uploads/2015/03/git-stickers-adesivo-600x600.png
+
 ##
 #### Contato:
 <div> 
