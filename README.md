@@ -12,7 +12,9 @@ Sou técnica em telecomunicações e possuo o Certificado Profissional em Análi
   <img align="center" alt="Alanna-r" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png">
   <img align="center" alt="Alanna-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Alanna-Anaconda" height="50" width="50" src="https://www.anaconda.com/wp-content/uploads/2023/09/Screenshot-2023-09-08-at-7.04.57-PM.png">
-  <img align="center" alt="Alanna-git" height="50" width="50" src="https://www.stickersdevs.com.br/wp-content/uploads/2015/03/git-stickers-adesivo-600x600.png">
+  <img align="center" alt="Alanna-git" height="50" width="50" src="https://www.stickersdevs.com.br/wp-content/uploads/2015/03/git-stickers-adesivo-600x600.png"> 
+  <img align="center" alt="Alanna-powerbi" height="50" width="50" src="https://www.stickersdevs.com.br/wp-content/uploads/2015/03/git-stickers-adesivo-600x600.png">
+
  </div>
 
 
