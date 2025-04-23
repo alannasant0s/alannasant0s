@@ -27,12 +27,6 @@ Atualmente curso Ciência da computação e atuo profissionalmente no mercado iG
 </div>
 
 
-       
-          JavaScript               33 repos            ███████████░░░░░░░░░░░░░░   42.31 % 
-TypeScript               10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-          
+
           
           
