@@ -27,6 +27,7 @@ Atualmente curso Ciência da computação e atuo profissionalmente no mercado iG
 </div>
 
 ![](https://github-readme-stats.vercel.app/api?username=alannasant0s&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alannasant0s&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=alannasant0s&icon=0&color=0)](https://visitcount.itsvg.in)
 
