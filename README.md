@@ -1,6 +1,6 @@
 ## Fala galera, meu nome é Alanna Santos 😉
 
-Atualmente curso Ciência da computação e atuo profissionalmente no mercado iGaming no Brasil, especificamente no ecossistema de apostas esportivas e cassinos online.
+Atualmente curso Ciência da computação e atuo profissionalmente como Analista financeira no mercado iGaming no Brasil, especificamente no ecossistema de apostas esportivas e cassinos online.
 
 #### Tecnologias:
 <div style="display: inline_block"><br>
