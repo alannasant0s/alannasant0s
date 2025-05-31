@@ -10,7 +10,6 @@ Em transição de carreira para Tecnologia, com foco em desenvolvimento de softw
    <img align="center" alt="Alanna-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Alanna-sqlserver" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Alanna-postgre" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Alanna-oracle" height="40" width="40" src="https://w7.pngwing.com/pngs/364/878/png-transparent-oracle-database-cloud-database-oracle-corporation-oracle-cloud-cloud-computing-text-logo-cloud-computing.png">
   <img align="center" alt="Alanna-r" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png">
   <img align="center" alt="Alanna-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Alanna-git" height="40" width="40" src="https://www.stickersdevs.com.br/wp-content/uploads/2015/03/git-stickers-adesivo-600x600.png"> 
@@ -19,7 +18,6 @@ Em transição de carreira para Tecnologia, com foco em desenvolvimento de softw
   <img align="center" alt="Alanna-java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
  <img align="center" alt="Alanna-html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
  <img align="center" alt="Alanna-css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
 
  </div>
 
