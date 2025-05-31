@@ -13,7 +13,6 @@ Em transição de carreira para Tecnologia, com foco em desenvolvimento de softw
   <img align="center" alt="Alanna-oracle" height="40" width="40" src="https://w7.pngwing.com/pngs/364/878/png-transparent-oracle-database-cloud-database-oracle-corporation-oracle-cloud-cloud-computing-text-logo-cloud-computing.png">
   <img align="center" alt="Alanna-r" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png">
   <img align="center" alt="Alanna-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Alanna-Anaconda" height="40" width="40" src="https://www.anaconda.com/wp-content/uploads/2023/09/Screenshot-2023-09-08-at-7.04.57-PM.png">
   <img align="center" alt="Alanna-git" height="40" width="40" src="https://www.stickersdevs.com.br/wp-content/uploads/2015/03/git-stickers-adesivo-600x600.png"> 
   <img align="center" alt="Alanna-c" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg"> 
   <img align="center" alt="Alanna-javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
