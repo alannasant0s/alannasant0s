@@ -24,7 +24,7 @@ Em transição de carreira para Tecnologia, com foco em desenvolvimento de softw
 ##
 #### Contato:
 <div> 
- <a href="https://www.linkedin.com/in/alanna-santos-8b6790283" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 <a href = "mailto:alannacom2n@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
