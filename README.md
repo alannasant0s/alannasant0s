@@ -14,7 +14,6 @@ Em transição de carreira para Tecnologia, com foco em desenvolvimento full sta
   <img align="center" alt="Alanna-git" height="40" width="40" src="https://www.stickersdevs.com.br/wp-content/uploads/2015/03/git-stickers-adesivo-600x600.png"> 
   <img align="center" alt="Alanna-c" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg"> 
   <img align="center" alt="Alanna-javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="Alanna-java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
  <img align="center" alt="Alanna-html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
  <img align="center" alt="Alanna-css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
