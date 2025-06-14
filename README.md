@@ -10,7 +10,6 @@ Em transição de carreira para Tecnologia, com foco em desenvolvimento full sta
    <img align="center" alt="Alanna-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Alanna-sqlserver" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Alanna-postgre" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Alanna-r" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png">
   <img align="center" alt="Alanna-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Alanna-git" height="40" width="40" src="https://www.stickersdevs.com.br/wp-content/uploads/2015/03/git-stickers-adesivo-600x600.png"> 
   <img align="center" alt="Alanna-c" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg"> 
