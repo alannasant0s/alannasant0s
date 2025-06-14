@@ -32,3 +32,4 @@ Em transição de carreira para Tecnologia, com foco em desenvolvimento full sta
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alannasant0s&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ---
   
+![](https://komarev.com/ghpvc/?username=alannasant0s&color=lightgrey)
