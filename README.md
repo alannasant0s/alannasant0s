@@ -1,8 +1,3 @@
-## Fala galera, meu nome é Alanna Santos 😉
-
-Em transição de carreira para Tecnologia, com foco em desenvolvimento full stack.
-
-
 #### Tecnologias em estudo:
 <div style="display: inline_block"><br>
   <img align="center" alt="Alanna-Google-Cloud" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
