@@ -1,5 +1,4 @@
-### Em transição de carreira para a área de tecnologia, com foco total em desenvolvimento de software.
-
+### Em transição de carreira para a área tech, com foco total em desenvolvimento de software.
 
 #### Tecnologias em estudo:
 <div style="display: inline_block"><br>
