@@ -1,3 +1,6 @@
+### Em transição de carreira para a área de tecnologia, com foco total em desenvolvimento de software.
+
+
 #### Tecnologias em estudo:
 <div style="display: inline_block"><br>
   <img align="center" alt="Alanna-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
