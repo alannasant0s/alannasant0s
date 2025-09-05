@@ -1,9 +1,9 @@
 #### Tecnologias em estudo:
 <div style="display: inline_block"><br>
+  <img align="center" alt="Alanna-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Alanna-Google-Cloud" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
    <img align="center" alt="Alanna-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Alanna-postgre" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Alanna-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Alanna-git" height="40" width="40" src="https://www.stickersdevs.com.br/wp-content/uploads/2015/03/git-stickers-adesivo-600x600.png"> 
   <img align="center" alt="Alanna-c" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg"> 
   <img align="center" alt="Alanna-javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
