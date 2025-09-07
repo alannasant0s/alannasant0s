@@ -1,4 +1,4 @@
-### Em transição de carreira para a área tech, com foco total em desenvolvimento de software.
+
 
 #### 💻 Tecnologias e Ferramentas em Estudo:
 <div style="display: inline_block"><br>
