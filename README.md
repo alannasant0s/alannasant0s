@@ -3,7 +3,7 @@
 #### 💻 Tecnologias e Ferramentas em Estudo:
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Flask" height="40" width="40" src="https://nordicapis.com/wp-content/uploads/How-to-Create-an-API-Using-The-Flask-Framework-1024x576.png">
+  <img align="center" alt="Flask" height="40" width="40" src="https://camo.githubusercontent.com/11c2007374bc0ec5581d9f6980423b1ddac8b3159fe31a051da5e68e31fe919b/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d353132772669643d4a364b6361524c735467705a26666f726d61743d706e67">
   <img align="center" alt="Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
